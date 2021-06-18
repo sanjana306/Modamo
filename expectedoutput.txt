@@ -1,0 +1,5 @@
+Test case name: testGetAllUsers, Result: pass 
+Test case name: testGetUser, Result: pass 
+Test case name: testUpdateUser, Result: pass 
+Test case name: testAddUser, Result: pass 
+Test case name: testDeleteUser, Result: pass 
